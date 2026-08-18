@@ -23,3 +23,6 @@ A **Confeitaria Sempre Doce** deseja expandir sua atuação criando um site para
 
 ## Modelagem Conceitual
 ![](modelo-conceitual-v1.png)
+
+## Modelo Logico
+![](Untitled%20diagram_2026-08-18T19_20_15.519Z.png)
